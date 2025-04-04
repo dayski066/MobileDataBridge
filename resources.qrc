@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <!-- Iconos SVG desde la carpeta 'icons' con guiones -->
+    <file alias="android-icon.svg">icons/android-icon.svg</file>
+    <file alias="ios-icon.svg">icons/ios-icon.svg</file>
+    <file alias="photos-icon.svg">icons/photos-icon.svg</file>
+    <file alias="videos-icon.svg">icons/videos-icon.svg</file>
+    <file alias="contacts-icon.svg">icons/contacts-icon.svg</file>
+    <file alias="messages-icon.svg">icons/messages-icon.svg</file>
+    <file alias="calls-icon.svg">icons/calls-icon.svg</file>
+    <file alias="calendar-icon.svg">icons/calendar-icon.svg</file>
+    <file alias="music-icon.svg">icons/music-icon.svg</file>
+    <file alias="notes-icon.svg">icons/notes-icon.svg</file>
+    <file alias="voice-memos-icon.svg">icons/voice-memos-icon.svg</file> <!-- Cambiado -->
+    <file alias="voicemail-icon.svg">icons/voicemail-icon.svg</file>
+
+    <!-- Otros SVGs (asumiendo que también están en 'icons') con guiones -->
+    <file alias="down-arrow.svg">icons/down-arrow.svg</file> <!-- Cambiado -->
+    <file alias="app-logo.svg">icons/app-logo.svg</file>   <!-- Cambiado -->
+
+    <!-- Imágenes PNG desde la carpeta 'images' (sin cambios) -->
+    <file alias="placeholder_android.png">images/placeholder_android.png</file>
+    <file alias="placeholder_ios.png">images/placeholder_ios.png</file>
+
+
+    <!-- Archivo de estilos QSS desde la carpeta 'styles' (sin cambios) -->
+    <file alias="stylesheet.qss">styles/stylesheet.qss</file>
+
+</qresource>
+</RCC>
